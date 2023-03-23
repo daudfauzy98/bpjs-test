@@ -27,4 +27,5 @@ This project is using PostgreSQL for the database and i've created auto migratio
 
 #### Screenshot
 ![alt text](https://github.com/daudfauzy98/bpjs-test/blob/main/psql.jpg)
+
 ![alt text](https://github.com/daudfauzy98/bpjs-test/blob/main/postman.png)
